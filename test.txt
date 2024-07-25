@@ -1,2 +1,11 @@
 ﻿Hello World!
 https://docs.pivpn.io/faq/#how-do-i-troubleshoot-connection-issues
+
+
+Editing /etc/sysctl.conf and uncommenting net.ipv4.ip_forward=1
+Updating the system after making edits to /etc/sysctl.conf with command sysctl -p
+Rebooting the wireguard server/raspberry pi
+Running the command sudo sysctl -w net.ipv4.ip_forward=1
+
+
+sudo nmtui
