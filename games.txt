@@ -32,8 +32,6 @@
 0.0.0.0 datarouter-prod.ak.epicgames.com
 0.0.0.0 ddacn6pr5v0tl.cloudfront.net
 0.0.0.0 diep.io
-0.0.0.0 discord.com
-0.0.0.0 discordapp.com
 0.0.0.0 ecsv2.roblox.com
 0.0.0.0 eggisthenewblack.com
 0.0.0.0 ephemeralcounters.api.roblox.com
